@@ -1,2 +1,2 @@
 # Games-for-Practice
-Simple Tic-Tac-Toe game for practing with java. 
+Simple Tic-Tac-Toe game for practing java. 
